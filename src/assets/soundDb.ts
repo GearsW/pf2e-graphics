@@ -360,6 +360,20 @@ export const database = {
 				'01': `${p}/sounds/tom-music/magic/ice/Ice Wall 1.ogg`,
 				'02': `${p}/sounds/tom-music/magic/ice/Ice Wall 2.ogg`,
 			},
+			bless: {
+				'01': `${p}/sounds/ovani-sounds/Magic II/Water and Ice/River Blessing.ogg`,
+			},
+			seal: `${p}/sounds/ovani-sounds/Magic II/Water and Ice/Seal Of The Ocean Loop.ogg`,
+			iceberg: {
+				'01': `${p}/sounds/ovani-sounds/Magic II/Water and Ice/Summon Iceberg 001.ogg`,
+				'02': `${p}/sounds/ovani-sounds/Magic II/Water and Ice/Summon Iceberg 002.ogg`,
+			},
+			ward: `${p}/sounds/ovani-sounds/Magic II/Water and Ice/Wave Ward.ogg`,
+			summon: {
+				'01': `${p}/sounds/ovani-sounds/Magic II/Water and Ice/Summon Water Elemental 001.ogg`,
+				'02': `${p}/sounds/ovani-sounds/Magic II/Water and Ice/Summon Water Elemental 002.ogg`,
+				'03': `${p}/sounds/ovani-sounds/Magic II/Water and Ice/Summon Water Elemental 003.ogg`,
+			},
 		},
 		holy: {
 			flyby: `${p}/sounds/soundflakes/diablo-wrath-miscellaneous/angels-flying.ogg`,
